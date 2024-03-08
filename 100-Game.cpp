@@ -1,6 +1,5 @@
 // Description: Game 1, Two players start from zero and alternatively add a number from one to ten to the sum, the plyer who reaches 100 first wins.
 // Author: Jessica Wagih Wadie Mellika
-// Id: 20230112
 // version: 3.0
 // Date: march, First
 
